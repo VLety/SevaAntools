@@ -1,0 +1,70 @@
+.container {
+    background: #1E252B;
+}
+
+.main_item_box {
+    border: 1px solid blue;
+    width: 326px;
+    height: 228px;
+    top: 1170px;
+    left: 558px;
+    gap: 0;
+}
+
+.item_box_section_1 {
+    width: 100%;
+    height: 66px;
+    display: inline-block;
+}
+
+img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.item_name {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+    color: #FFFFFFE5;
+    font-family: 'Poppins';
+    vertical-align: top;
+    display: inline;
+}
+
+.item_cost {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: #FFA537;
+    font-family: 'Poppins';
+    vertical-align: bottom;
+    display: inline;
+}
+
+.item_box_section_2 {
+    width: 100%;
+    height: 66px;
+    display: inline-block;
+    font-family: 'Poppins';
+    color: #FFFFFFC7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}
+
+.item_box_section_3 {
+    width: 100%;
+    height: 66px;
+    display: inline-block;
+    font-family: 'Poppins';
+    color: #FFFFFFC7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}
